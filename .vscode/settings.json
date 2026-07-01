@@ -1,0 +1,26 @@
+{
+    "python.defaultInterpreterPath": "/Users/veer/Desktop/Development/graph/venv/bin/python",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.tabCompletion": "on",
+    "editor.wordBasedSuggestions": "matchingDocuments",
+    "editor.inlineSuggest.enabled": false,
+    "editor.suggest.showMethods": true,
+    "editor.suggest.showFunctions": true,
+    "editor.suggest.showVariables": true,
+    "editor.suggest.showClasses": true,
+    "editor.suggest.showModules": true,
+    "editor.suggest.showKeywords": true,
+    "editor.parameterHints.enabled": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "[python]": {
+        "editor.formatOnType": true
+    }
+}
